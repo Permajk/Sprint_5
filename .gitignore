@@ -1,0 +1,10 @@
+conftest.cpython-313-pytest-8.4.2.pyc
+data.cpython-313.pyc
+locators.cpython-313.pyc
+test_chapter_constructor.cpython-313-pytest-8.4.2.pyc
+test_exit.cpython-313-pytest-8.4.2.pyc
+test_login.cpython-313-pytest-8.4.2.pyc
+test_registration.cpython-313-pytest-8.4.2.pyc
+test_transition_in_constructor.cpython-313-pytest-8.4.2.pyc
+test_transition_in_pers_account.cpython-313-pytest-8.4.2.pyc
+*.pyc
