@@ -8,3 +8,4 @@ test_registration.cpython-313-pytest-8.4.2.pyc
 test_transition_in_constructor.cpython-313-pytest-8.4.2.pyc
 test_transition_in_pers_account.cpython-313-pytest-8.4.2.pyc
 *.pyc
+__pycache__
